@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "message": "The request is ok",
+  "data": [
+    {
+      "id": 1,
+      "image_url": "https://drive.google.com/uc?export=download&id=1F5xK7lF6DZcT3-qW3iAUTMEu_mPgoSN9"
+    },
+    {
+      "id": 2,
+      "image_url": "https://drive.google.com/uc?export=download&id=1TKub8eg7xNq5-iTtu8bfGH7JDN2BpbH5"
+    },
+    {
+      "id": 3,
+      "image_url": "https://drive.google.com/uc?export=download&id=1spOqm_qyL9zU40Agmyf8XgvhuSIIQlQr"
+    },
+    {
+      "id": 4,
+      "image_url": "https://drive.google.com/uc?export=download&id=1F5xK7lF6DZcT3-qW3iAUTMEu_mPgoSN9"
+    },
+    {
+      "id": 5,
+      "image_url": "https://drive.google.com/uc?export=download&id=1zbc9alo7A4URBmy4r01t6zia0W4tv6wu"
+    },
+    {
+      "id": 6,
+      "image_url": "https://drive.google.com/uc?export=download&id=1qRm4BAgLkpJJ1ThQlyj11CfILuU8KKHr"
+    },
+    {
+      "id": 7,
+      "image_url": "https://drive.google.com/uc?export=download&id=1qNni0bv2uHCtp_0eEo8k3tC5JL7BB1ih"
+    },
+    {
+      "id": 8,
+      "image_url": "https://drive.google.com/uc?export=download&id=19PbQNo-Ovbge4_tpUjB89c2l--3nJL3L"
+    }
+  ]
+}

@@ -34,9 +34,6 @@
       "id": 8,
       "image_url": "https://drive.google.com/uc?export=download&id=1F5xK7lF6DZcT3-qW3iAUTMEu_mPgoSN9"
     },
-  
-  
-   
     {
       "id": 9,
       "image_url": "https://drive.google.com/uc?export=download&id=1qRm4BAgLkpJJ1ThQlyj11CfILuU8KKHr"
@@ -56,6 +53,6 @@
     {
       "id": 13,
       "image_url": "https://drive.google.com/uc?export=download&id=1spOqm_qyL9zU40Agmyf8XgvhuSIIQlQr"
-    },
+    }
   ]
 }

@@ -2,35 +2,34 @@
   "success": true,
   "message": "The request is ok",
   "data": [
-      {
+    {
       "id": 1,
       "image_url": "https://drive.google.com/uc?export=download&id=1TKub8eg7xNq5-iTtu8bfGH7JDN2BpbH5"
     },
-      {
+    {
       "id": 2,
       "image_url": "https://drive.google.com/uc?export=download&id=1JV0nUEObZL8WSv7fnmDYVF5pfJNsC31O"
     },
-     {
+    {
       "id": 3,
       "image_url": "https://drive.google.com/uc?export=download&id=1FZAPm9344h0m89Ji8qUAlyksdOh48geU"
     },
-     {
+    {
       "id": 4,
       "image_url": "https://drive.google.com/uc?export=download&id=1g5ePotYKnQ-KTljZVGdP3lFXrEi3w6G0"
     },
-     {
+    {
       "id": 5,
       "image_url": "https://drive.google.com/uc?export=download&id=1u5TB1zwPtCTpYsHoOapw_Hxi-1UaePoH"
     },
-     {
+    {
       "id": 6,
       "image_url": "https://drive.google.com/uc?export=download&id=1CHhriuaQPK0uuYhGh1v0yqBlBJ7nd-rB"
     },
-      {
+    {
       "id": 7,
       "image_url": "https://drive.google.com/uc?export=download&id=19PbQNo-Ovbge4_tpUjB89c2l--3nJL3L"
-    }
-    {
+    },{
       "id": 8,
       "image_url": "https://drive.google.com/uc?export=download&id=1F5xK7lF6DZcT3-qW3iAUTMEu_mPgoSN9"
     },
@@ -42,8 +41,8 @@
       "id": 10,
       "image_url": "https://drive.google.com/uc?export=download&id=1qNni0bv2uHCtp_0eEo8k3tC5JL7BB1ih"
     },
-     {
-      "id":11,
+    {
+      "id": 11,
       "image_url": "https://drive.google.com/uc?export=download&id=1izzlG0O4iKAOZ6iio6B9hngdOcKKeiBD"
     },
     {
